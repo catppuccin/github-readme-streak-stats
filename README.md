@@ -27,7 +27,7 @@
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="assets/macchaito.svg"/>
+<img src="assets/macchiato.svg"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
